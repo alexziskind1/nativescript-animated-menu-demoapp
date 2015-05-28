@@ -1,0 +1,32 @@
+page {
+    background-color: #666666;
+}
+
+.menu {
+    color: white;
+}
+
+.menutitle {
+    margin-top: 50;
+    margin-left: 20;
+    margin-bottom:40;
+}
+
+.menu-button {
+    horizontal-align: left;
+    margin-left:20;
+}
+
+.menu-open-button {
+    horizontal-align: left;
+}
+
+.main {
+    background-color:#f4f5f0;
+}
+
+.mainContents {
+    margin-left: 20;
+}
+
+

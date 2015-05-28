@@ -1,0 +1,1 @@
+# nativescript-animated-menu-demoapp

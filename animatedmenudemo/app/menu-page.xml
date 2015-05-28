@@ -1,0 +1,9 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd">
+    <StackLayout cssClass="menu" loaded="menuLoaded">
+        <Label text="Menu" cssClass="menutitle" />
+        <Button text="PROFILE" tap="{{ tapMenuItem }}" cssClass="menu-button" />
+        <Button text="ACCOUNT" tap="{{ tapMenuItem }}" cssClass="menu-button" />
+
+        <Button text="LOG OUT" tap="{{ tapMenuItem }}" cssClass="menu-button" />
+    </StackLayout>
+</Page>

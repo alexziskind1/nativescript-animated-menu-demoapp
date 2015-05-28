@@ -1,0 +1,6 @@
+{
+	"id": "org.nativescript.animatedmenudemo",
+	"tns-ios": {
+		"version": "1.0.1"
+	}
+}
